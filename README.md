@@ -25,4 +25,4 @@ Die Applikation wird als Single Page Application (SPA) umgesetzt. Dafür wird di
 - Express.js
 - SQL
 
-verwendet wird. Zusätzlich wird die Applikation mit **Docker** containerisiert, damit das Frontend und Backend schnell gestartet werden und kommunizieren kann.
+verwendet wird. Zusätzlich wird die Applikation mit **Docker** containerisiert, damit Frontend und Backend schnell gestartet werden und kommunizieren können.
